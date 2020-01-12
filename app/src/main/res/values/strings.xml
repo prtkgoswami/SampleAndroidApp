@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="first_page_title">Welcome to my First App</string>
+    <string name="first_page_text">Click Button to Advance</string>
+    <string name="front_btn_text">Front</string>
+
+
+    <string name="second_page_title">Hello World!</string>
+    <string name="second_page_text">Click Button to Retreat</string>
+    <string name="back_btn_text">Back</string>
+</resources>
