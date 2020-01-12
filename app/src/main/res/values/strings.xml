@@ -7,6 +7,6 @@
 
 
     <string name="second_page_title">Hello World!</string>
-    <string name="second_page_text">Click Button to Retreat</string>
+    <string name="second_page_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi ex, tempor vitae vestibulum quis, ornare vitae mi. Aliquam erat volutpat. Suspendisse lacinia sit amet purus at lacinia. Donec sed elit rhoncus, finibus nisi sit amet, dapibus enim. Vestibulum nec mi quis sapien pharetra finibus. Cras cursus condimentum magna, quis lacinia nisi ullamcorper ac. In eu mauris eleifend, malesuada quam vel, blandit lectus. Maecenas faucibus dolor justo, sed gravida leo cursus eu. \n\nClick Button to Retreat</string>
     <string name="back_btn_text">Back</string>
 </resources>
